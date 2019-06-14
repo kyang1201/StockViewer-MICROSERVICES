@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DbServiceApplication",
+            "request": "launch",
+            "mainClass": "com.example.stock.dbservice.DbServiceApplication",
+            "projectName": "db-service"
+        }
+    ]
+}
